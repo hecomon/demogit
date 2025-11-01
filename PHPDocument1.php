@@ -8,7 +8,8 @@ function showHola(){ ?>
 </head>
 
 <body>
-<p>PRUEBA DE HOLA MUNDO DESDE ZEND</p>
+<p>PRUEBA DE HOLA MUNDO DESDE PHP</p>
 <?php showHola(); ?>
+<p>&nsp;</p>
 </body>
 </html>
