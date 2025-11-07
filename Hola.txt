@@ -1,3 +1,3 @@
 Hola mundo 
 desde Git
-Hola mundo de GitHub
+Hola mundo desde GitHub
