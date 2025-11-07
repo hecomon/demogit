@@ -1,2 +1,2 @@
 <?php //Esta es una parte ?>
-<?php echo "Parte 01"; ?>
+<?php echo "Esta es la Parte 01"; ?>
